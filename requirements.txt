@@ -1,0 +1,12 @@
+streamlit
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+langchain-core
+faiss-cpu
+sentence-transformers
+pypdf
+transformers
+torch
+accelerate
+pandas
