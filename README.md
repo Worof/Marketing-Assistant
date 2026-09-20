@@ -116,18 +116,6 @@ Small local LLMs will confidently guess wrong numbers if retrieval only surfaces
 | **Similarity distance threshold** | Retrieved chunks that are too dissimilar to the question are dropped; if nothing passes, the system refuses rather than answering from irrelevant context |
 | **Strict system prompt** | Explicitly instructs the model to answer only from provided context and to say *"That isn't in my knowledge base"* rather than guess |
 
----
-
-## 🖼️ Screenshots
-
-> *Add screenshots of your running app here once deployed — recommended shots:*
-> 1. Main chat view with a question answered and the 📎 sources panel expanded
-> 2. Sidebar showing the knowledge base build status and retrieval/memory controls
-> 3. A memory follow-up exchange (e.g. "what segment are they in?" resolving correctly)
-
-```markdown
-![Chat view](assets/screenshot_chat.png)
-![Sidebar controls](assets/screenshot_sidebar.png)
 ```
 
 ---
